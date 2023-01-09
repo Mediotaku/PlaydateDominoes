@@ -1,6 +1,7 @@
 import "global"
 import "extensions"
 import "menuState"
+import "turnGameState"
 import "stateManager"
 
 local gfx <const> = playdate.graphics
